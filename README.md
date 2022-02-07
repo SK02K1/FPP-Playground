@@ -12,4 +12,6 @@
 - [Currying](https://codesandbox.io/s/08-currying-rvr95)
 - [Composition](https://codesandbox.io/s/09-composition-n78n4)
 
+- [👻 THE ONE HOMEWORK](https://codesandbox.io/s/10-the-one-homework-dt64s?file=/src/index.js)
+
 
